@@ -1,0 +1,1 @@
+Savior of Mankind. Detects fires, landslides, floods, etc and finds the optimal path for the rescuers to save the victims avoiding obstacles. (Computer Vision, Deep Learning)
